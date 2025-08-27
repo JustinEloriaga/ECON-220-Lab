@@ -55,8 +55,8 @@ This repository contains laboratory materials and assignments for ECON 220 (Data
 
 ## 🛠️ Software and Tools
 
-- **Primary Software:** [R/Python/Stata - specify which is used]
-- **Development Environment:** [RStudio/Jupyter/etc.]
+- **Primary Software:** Python
+- **Development Environment:** Jupyter in VSCode + Copilot
 - **Visualization Tools:** ggplot2, matplotlib, or similar
 - **Data Formats:** CSV, Excel, text files
 
@@ -73,7 +73,7 @@ The repository includes various economic datasets for analysis:
 
 ### Prerequisites
 - Basic understanding of mathematics and algebra
-- Familiarity with economic concepts (ECON 101 recommended)
+- Familiarity with economic concepts 
 - Access to statistical software
 
 ### Installation
